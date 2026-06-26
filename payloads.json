@@ -1,0 +1,66 @@
+{
+  "tselilped": {
+    "title": "TSEL ILPED",
+    "payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]\n\n𝗣𝗿𝗼𝘅𝘆: ruangguru.com:443"
+  },
+    "gamemax": {
+    "title": "TSEL GAMEMAX",
+    "payload": "GET HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf][crlf]\n\n𝗣𝗿𝗼𝘅𝘆: i.nimo.tv:443"
+  },
+    "tiktok": {
+    "title": "TSEL TIKTOK / XL TIKTOK",
+    "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: api24-normal.tiktokv.com[crlf]Connection: Keep-Alive[crlf][crlf]GET-RAY / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]\n\n𝗣𝗿𝗼𝘅𝘆: \napi24-normal.tiktokv.com\napi24-normal-alisg.tiktokv.com\n172.66.1.232"
+  },
+    "biz": {
+    "title": "XL FLEX / WA / BIZTAYO",
+    "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: collection.linefriends.com[crlf]Connection: Keep-Alive[crlf][crlf]GET-RAY / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]\n\n𝗣𝗿𝗼𝘅𝘆: \ncollection.linefriends.com\nava.game.naver.com"
+  },
+    "musik": {
+    "title": "XL/AXIS MUSIK",
+    "payload": "PATCH /ssh-ws HTTP/1.1[crlf]Host: [host][crlf]Host: investors.spotify.com[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf][crlf]\n\n𝗣𝗿𝗼𝘅𝘆: investors.spotify.com"
+  },
+    "dbyt": {
+    "title": "XL DOUBEL YT",
+    "payload": "GET HTTP/1.1[crlf]Host: support.zoom.us.[host][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf][crlf]\n\n𝗣𝗿𝗼𝘅𝘆: support.zoom.us:443\n104.17.3.81"
+  },
+  "vidio": {
+    "title": "XL VIDIO",
+    "payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]\n\n𝗣𝗿𝗼𝘅𝘆: support.vidio.com"
+  },
+  "viu": {
+    "title": "XL VIU",
+    "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: zaintest.vuclip.com[crlf]Connection: Keep-Alive[crlf][crlf]GET-RAY / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]\n\n𝗣𝗿𝗼𝘅𝘆: \n104.18.38.43"
+  },
+  "xlopok": {
+    "title": "XL OPOK",
+    "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: ovo.id[crlf]Connection: Keep-Alive[crlf][crlf]GET-RAY / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]\n\n𝗣𝗿𝗼𝘅𝘆: 104.18.29.244:80"
+  },
+  "byuggwp": {
+    "title": "BYU GGWP KHUSUS JATENG",
+    "payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]\n\n𝗣𝗿𝗼𝘅𝘆: 104.19.143.108:80"
+  },
+    "grab": {
+    "title": "XL AXIS GRAB",
+    "payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]\n\n𝗣𝗿𝗼𝘅𝘆: grabacademyportal.grab.com:80"
+  },
+  "edukasi": {
+    "title": "XL/AXIS EDUKASI",
+    "payload": "GET /  HTTP/1.1[crlf]Host: ads.ruangguru.com[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf][split]HTTP/enhanced 200 Ok[crlf]\n\n𝗣𝗿𝗼𝘅𝘆:\n104.17.3.81\nchat.sociomile.com"
+  },
+  "confrece": {
+    "title": "XL/AXIS CONFRECE",
+    "payload": "PATCH /ssh-ws HTTP/1.1[crlf]Host: [host][crlf]Host: partner.zoom.us[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf][crlf]\n\n𝗣𝗿𝗼𝘅𝘆: cdn-cf.zoom.us"
+  },
+    "tselopok": {
+    "title": "TSEL OPOK 30 MB",
+    "payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]\n\n𝗣𝗿𝗼𝘅𝘆: app-stg.gopay.co.id:443\n\nMode Tls"
+  },
+  "isatedu": {
+    "title": "ISAT EDU 12 GB",
+    "payload": "PACTH / HTTP/1.1[crlf]Host: [host][crlf]Host: api.webex.com[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]\n\n𝗣𝗿𝗼𝘅𝘆: 141.193.213.20"
+  },
+  "appfun": {
+    "title": "ISAT APPFUNS",
+    "payload": "GET / HTTP/1.1[crlf]Host: cache.netflix.com[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.0[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]\n\n𝗣𝗿𝗼𝘅𝘆: 104.17.241.25"
+  }
+}

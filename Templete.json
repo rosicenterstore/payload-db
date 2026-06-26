@@ -1,0 +1,163 @@
+{
+  "sushi": {
+    "title": "AXIS SUSHIROLL",
+    "payload": "GET / HTTP/1.1[crlf]Host: www.sushiroll.co.id[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
+    "proxy": "104.21.69.223:80",
+    "sni": "",
+    "enhanced": "true"
+  },
+    "ilpedv1": {
+    "title": "TSEL ILPED NEW",
+    "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: api.quipper.com[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
+    "proxy": "ilped.nevpn.my.id:443",
+    "sni": "[host]",
+    "enhanced": "true"
+  },
+    "ilped": {
+    "title": "TSEL ILPED SNI",
+    "payload": "",
+    "proxy": "",
+    "sni": "practicesets.classroom.google.com",
+    "enhanced": ""
+  },
+  "gamemax": {
+    "title": "TSEL GAMEMAX",
+    "payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf][crlf]",
+    "proxy": "ir.huya.com:443",
+    "sni": "[host]",
+    "enhanced": ""
+  },
+  "tiktok": {
+    "title": "XL TIKTOK/THREE SOSMED",
+    "payload": "HEAD / HTTP/1.1[crlf]Host: apac-marketing.tiktok.com[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: Websocket[crlf][crlf][split]HTTP/ 1[crlf][crlf]",
+    "proxy": "162.159.141.236:80",
+    "sni": "",
+    "enhanced": "true"
+  },
+  "tiktokv1": {
+    "title": "TSEL BYU TIKTOK",
+    "payload": "",
+    "proxy": "",
+    "sni": "api24-normal.tiktokv.com",
+    "enhanced": ""
+  },
+  "XL PRIO": {
+    "title": "XL OPOK PRIO",
+    "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: ava.game.naver.com[crlf]Connection: Keep-Alive[crlf][crlf]GET-RAY / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
+    "proxy": "ava.game.naver.com:80",
+    "sni": "",
+    "enhanced": "true"
+  },
+  "musik": {
+    "title": "XL/AXIS MUSIK",
+    "payload": "PATCH /ssh-ws HTTP/1.1[crlf]Host: [host][crlf]Host: investors.spotify.com[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf][crlf]",
+    "proxy": "162.159.130.11:80",
+    "sni": "",
+    "enhanced": "true"
+  },
+    "sfchat": {
+    "title": "SMARTFREN CHAT NONSTOP",
+    "payload": "",
+    "proxy": "",
+    "sni": "chat.whatsapp.com",
+    "enhanced": ""
+  },
+  "WA JS": {
+    "title": "XL AXIS WA JABAR SUMATRA",
+    "payload": "",
+    "proxy": "",
+    "sni": "listen.noice.id",
+    "enhanced": ""
+  },
+  "WA NJS": {
+    "title": "XL AXIS WA NON JABAR SUMATRA",
+    "payload": "PATCH /ssh-ws HTTP/1.1[crlf]Host: [host][crlf]Host: listen.noice.id[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf][crlf]",
+    "proxy": "104.18.1.196:80",
+    "sni": "",
+    "enhanced": ""
+  },
+  "IFLIX": {
+    "title": "XL IFLIX",
+    "payload": "",
+    "proxy": "",
+    "sni": "www.iflix.com",
+    "enhanced": ""
+  },
+  "byuggwp": {
+    "title": "BYU GGWP KHUSUS JATENG",
+    "payload": "GET /  HTTP/1.1[crlf]Host: play.mobilelegends.com[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf][split]HTTP/enhanced 200 Ok[crlf]",
+    "proxy": "104.19.143.108:80",
+    "sni": "",
+    "enhanced": ""
+  },
+    "game": {
+    "title": "XL AXIS GAME",
+    "payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "proxy": "poe.garena.com:80",
+    "sni": "",
+    "enhanced": ""
+  },
+  "grab": {
+    "title": "XL AXIS GRAB",
+    "payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "proxy": "grabacademyportal.grab.com:80",
+    "sni": "",
+    "enhanced": ""
+  },
+  "edu JS": {
+    "title": "XL/AXIS EDUKASI JABAR SUMATRA",
+    "payload": "GET / HTTP/1.1[crlf]Host: audisi.ruangguru.com[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf][split]HTTP/enhanced 200 Ok[crlf]",
+    "proxy": "ads.ruangguru.com:80",
+    "sni": "",
+    "enhanced": "true"
+  },
+    "eduv1": {
+    "title": "XL/AXIS EDUKASI V1 JABARR SUMATRA",
+    "payload": "GET / HTTP/1.1[crlf]Host: audisi.ruangguru.com[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf][split]HTTP/enhanced 200 Ok[crlf]",
+    "proxy": "support.udemy.com:80",
+    "sni": "",
+    "enhanced": "true"
+  },
+  "edu NJS": {
+    "title": "XL/AXIS EDUKASI NON JABAR SUMATRA",
+    "payload": "GET / HTTP/1.1[crlf]Host: audisi.ruangguru.com[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf][split]HTTP/enhanced 200 Ok[crlf]",
+    "proxy": "104.17.3.81:80",
+    "sni": "",
+    "enhanced": ""
+  },
+  "con NJS": {
+    "title": "XL/AXIS CONFRECE NON JABAR SUMATRA",
+    "payload": "PATCH /ssh-ws HTTP/1.1[crlf]Host: [host][crlf]Host: partner.zoom.us[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf][crlf]",
+    "proxy": "cdn-cf.zoom.us:80",
+    "sni": "",
+    "enhanced": ""
+  },
+  "con JS": {
+    "title": "XL/AXIS CONFRECE JABAR SUMATRA",
+    "payload": "GET / HTTP/1.1[crlf]Host: support.zoom.us.[host][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf][crlf]",
+    "proxy": "support.zoom.us:443",
+    "sni": "support.zoom.us.[host]",
+    "enhanced": ""
+  },
+    "isatedu30": {
+    "title": "ISAT EDU 30 GB",
+    "payload": "",
+    "proxy": "",
+    "sni": "support.zoom.us",
+    "enhanced": "true"
+  },
+  "isatedu12": {
+    "title": "ISAT EDU 12 GB",
+    "payload": "PACTH / HTTP/1.1[crlf]Host: [host][crlf]Host: api.webex.com[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+    "proxy": "141.193.213.20:80",
+    "sni": "",
+    "enhanced": "true"
+  },
+  "appfun": {
+    "title": "ISAT APPFUNS",
+    "payload": "GET / HTTP/1.1[crlf]Host: cache.netflix.com[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.0[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
+    "proxy": "104.17.241.25:80",
+    "sni": "",
+    "enhanced": "true"
+  }
+}

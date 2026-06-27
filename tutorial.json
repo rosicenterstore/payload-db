@@ -1,0 +1,14 @@
+{
+  "hwid": {
+    "title": "CARA MENDAPAT HWID",
+    "tutorial": "🔧 *Langkah–langkah Mengambil HWID di ZIVPN*\n\n1. Buka aplikasi ZIVPN di perangkat Anda.\n2. Pada bagian kiri atas, ketuk ikon garis tiga (☰) untuk membuka menu utama.\n3. Gulir ke bawah dan temukan opsi \"HWID\", lalu ketuk menu tersebut.\n4. Salin (Copy) kode HWID yang muncul.\n5. Tempelkan (Paste) kode HWID ke dalam pesan Anda, lalu kirimkan kembali kepada saya."
+  },
+  "logs": {
+    "title": "CARA MELIHAT LOG PADA ZIVPN",
+    "tutorial": "📖 *Tutorial Melihat LOG di Aplikasi ZiVPN*\n\n1. Buka aplikasi ZiVPN terlebih dahulu.\n\n2. Hubungkan config seperti biasa dengan menekan tombol CONNECT.\n\n3. Setelah proses berjalan, cari menu:\n   • LOG\n   • Connection Log\n   • Atau ikon titik tiga (⋮) di pojok kanan atas.\n\n4. Di halaman LOG akan muncul informasi proses koneksi secara otomatis.\n\nContoh log berhasil:\n━━━━━━━━━━━━━━━\nstarting tunnel service\nUsing dns : 8.8.8.8, 8.8.4.4\nUDP Connected Successfully\nYou are ready to go\n━━━━━━━━━━━━━━━\n\nContoh log error:\n━━━━━━━━━━━━━━━\nReconnecting\nDisconnected\nStopping UDP....\nInvalid UDP setting\n━━━━━━━━━━━━━━━\n\n5. Jika log terlalu cepat hilang, gunakan tombol:\n   • Copy Log\n   • Export Log\n   • Share Log\n\n6. Kirim hasil LOG ke admin agar masalah config atau server bisa dicek lebih lanjut."
+  },
+  "masalah_umum": {
+    "title": "MASALAH UMUM PADA ZIVPN",
+    "tutorial": "⚠️ *Beberapa Masalah Umum yang Sering Terjadi Pada ZiVPN*\n\n1. *Kartu Dalam Masa Tenggang*\nPaket VPN tidak akan berjalan jika kartu sudah masuk masa tenggang. Pastikan kartu masih aktif dan dapat mengakses internet.\n\n2. *DNS Private Tidak Otomatis*\nDNS pribadi yang aktif sering menyebabkan config gagal connect.\n\nCara mengatur DNS Private:\n• Buka Pengaturan HP\n• Pilih Koneksi Lainnya\n• Cari menu DNS Pribadi / Private DNS\n• Pastikan diatur ke Otomatis atau Nonaktif\n\n3. *Kartu Axis Kena Limit Harian*\nMasalah ini biasanya hanya terjadi pada kartu Axis.\n\nCiri-ciri:\n• Config sebelumnya normal\n• Tiba-tiba tidak bisa connect\n• Internet terasa dibatasi\n\nSolusi:\n• Tunggu pergantian hari\n• Atau coba kembali beberapa jam kemudian\n\n4. *Lokasi di Luar Jawa Barat dan Sumatra*\nBeberapa config hanya optimal digunakan di area tertentu seperti Jawa Barat dan Sumatra.\n\nJika digunakan di luar area tersebut:\n• Config bisa lambat\n• Susah connect\n• Atau tidak berjalan sama sekali\n\nSilakan coba config lain yang sesuai dengan lokasi Anda."
+  }
+}

@@ -159,12 +159,5 @@
     "proxy": "104.17.241.25:80",
     "sni": "",
     "enhanced": "true"
-  },
-  "trisos": {
-    "title": "THREE SOSMED",
-    "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: graph.instagram.com[crlf][crlf]GET-WSS / HTTP/1.1[crlf]Host: [host][crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]",
-    "proxy": "104.26.6.171:443",
-    "sni": "[host]",
-    "enhanced": ""
   }
 }

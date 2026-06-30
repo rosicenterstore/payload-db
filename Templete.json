@@ -118,6 +118,13 @@
     "sni": "",
     "enhanced": "true"
   },
+    "eduv2": {
+    "title": "XL/AXIS EDUKASI V2 JABARR SUMATRA",
+    "payload": "GET / HTTP/1.1[crlf]Host: audisi.ruangguru.com[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf][split]HTTP/enhanced 200 Ok[crlf]",
+    "proxy": "chat.sociomile.com:80",
+    "sni": "",
+    "enhanced": "true"
+  },
   "edu NJS": {
     "title": "XL/AXIS EDUKASI NON JABAR SUMATRA",
     "payload": "GET / HTTP/1.1[crlf]Host: audisi.ruangguru.com[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf][split]HTTP/enhanced 200 Ok[crlf]",
